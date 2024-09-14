@@ -1,3 +1,24 @@
+ ≡ 15-September-2024
+
+- Synced with latest source
+- OSS camera optimization
+- Update GPS flags
+- Enable zygote critical window
+- Switch to AOSP surfaceflinger
+- Add TouchGestures and KeyHandler config
+- OTA support pushed
+
+# Credits:
+- @SonicBSV for device tree
+- @ItsRyuujiX for kernel tree
+- @agiiilll27, @Alwynluxy for testing
+
+# Notes:
+- Non-FBE and 4.19 based build
+- Pie firmware 063 or 087 recommended
+
+ ――――――――――――――――――――――――――――――――――――――――――――――
+
  ≡ 31-July-2024
 
 - Synced with latest source

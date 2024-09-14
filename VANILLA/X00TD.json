@@ -1,14 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1722398521,
-      "size": 1347603137,
-      "filehash": "12c0f3333eb6f596e960683929ed6502",
-      "filename": "Everest-1.3-Tenzing-X00TD-OFFICIAL-VANILLA-0704-20240731.zip",
-      "id": "0020a646d4d3fcecac398b3071da37b5971e66771324aaa30d5de1c96ff1c3be",
+      "datetime": 1726330157,
+      "size": 1423371700,
+      "filehash": "6ddaa26d119e857efa54698d7a1fb6e6",
+      "filename": "EverestOS-1.6-Lukla-EOL-X00TD-OFFICIAL-VANILLA-1611-20240914.zip",
+      "id": "9449363b00326f7b29b807c183339014e5488487d25bab8a740ee9d546fad5e8",
       "romtype": "OFFICIAL",
-      "version": "1.3",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/X00TD/Everest-1.3-Tenzing-X00TD-OFFICIAL-VANILLA-0704-20240731.zip/download"
+      "version": "1.6",
+      "maintainer": "∂σткιт",
+      "url": "https://sourceforge.net/projects/everestos-releases/files/X00TD/EverestOS-1.6-Lukla-EOL-X00TD-OFFICIAL-VANILLA-1611-20240914.zip/download"
     }
   ]
 }
